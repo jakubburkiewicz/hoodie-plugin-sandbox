@@ -1,0 +1,6 @@
+{
+    "name": "hoodie-plugin-sandbox",
+    "version": "0.0.1",
+    "description": "Nothing interesting here. Just sandbox for Hood.ie plugins development.",
+    "main": "worker.js"
+}
